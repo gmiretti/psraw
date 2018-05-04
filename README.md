@@ -51,5 +51,5 @@ psraw.comment_search(r, q='', subreddit='', limit=0, sort='asc', after=0, before
 ```
 
 ```python
-psraw.submission_search(r, q='', subreddit='', limit=0, sort='asc', after=0)
+psraw.submission_search(r, q='', subreddit='', limit=0, sort='asc', after=0, before=0)
 ```
